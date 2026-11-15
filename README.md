@@ -2,7 +2,9 @@
 
 A darker, higher-contrast take on Rosé Pine, born inside tmux, for fzf.
 
-![Hell Pine in Neovim, the terminal and tmux](https://raw.githubusercontent.com/abxengg/hell-pine.nvim/main/assets/hero.png)
+![fzf in Hell Pine, with a preview pane](preview.png)
+
+Captured from fzf running with these colours: matches in rose, the current line on a lifted background, the pointer in iris, the marker in love.
 
 ## Install
 
